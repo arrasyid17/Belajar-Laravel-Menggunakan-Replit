@@ -94,7 +94,7 @@
 
                         <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Follow my instagram <a href="https://www.instagram.com/alhafiid17.nr?utm_source=qr&igsh=MTh1ZnZvdGRxMHVnMw==" class="underline">Forge</a>, 
+                                    Follow my instagram <a href="https://www.instagram.com/alhafiid17.nr?utm_source=qr&igsh=MTh1ZnZvdGRxMHVnMw==" class="underline">alhafiid17</a>, 
                                 </div>
                         </div>
                     </div>
